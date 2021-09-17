@@ -1,0 +1,31 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+span{
+    color: rgb(218, 136, 218);
+}
+.form-section{
+    background-color: rgb(193, 219, 141);
+    width: 75%;
+    margin: auto;
+    padding: 20px;
+}
+.login-text{
+    margin-bottom: 20px;
+    font-size: 2em; 
+    color: yellow;
+}
+.email-field, .pass-field{
+    display: block;
+    border-radius: 5px;
+    width: 75%;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.button-bg{
+    background-color: rgb(223, 177, 91);
+    padding: 7px;
+    font-weight: bold;
+    border-radius: 5px;
+}

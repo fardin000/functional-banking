@@ -1,0 +1,80 @@
+h1{
+    text-align: center;
+    margin-top: 1.5em;
+    font-size: 2em;
+}
+span{
+    color: rgb(218, 136, 218);
+}
+.amount-control{
+   
+}
+.amount-section{
+    display: flex;
+    margin-top:2em;  
+}
+.deposite-section{
+    width: 100%;
+    padding: 10px 10px 1px 20px;
+    font-size: 20px;
+    color: white;
+    line-height: 2px;
+    margin: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+}
+.dollar-text{
+    font-size: 1.7em;
+}
+.depo-color1{
+    background-color: rgb(127, 206, 238);
+}
+.depo-color2{
+    background-color: yellowgreen;
+}
+.depo-color3{
+    background-color: rgb(231, 211, 175);
+}
+.email-field{
+    width:85%;
+    border-radius: 3px;
+    padding-left: 5px;
+}
+.button-bg{
+    display: block;
+    margin-top: 10px;
+    background-color: thistle;
+    padding: 5px;
+    border-radius: 5px;
+}
+.deposite-withdraw{
+    display: flex;
+    margin-top: 5px;
+    width: auto;
+}
+.deposite-field{
+    margin: 5px;
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(238, 225, 238);
+    border-radius: 5px;
+}
+.withdraw-field{
+    background-color: rgb(240, 201, 161);
+    padding: 20px;
+    width: 50%;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+
+.depo-sector{
+  
+    
+}
+.with-sector{
+    
+}
+#deposite-total, #withdraw-total, #balance-total{
+    color: white;
+}
